@@ -1,0 +1,4 @@
+com\mitrais\rmsweb\controller\UserController.class
+com\mitrais\rmsweb\model\User.class
+com\mitrais\rmsweb\dao\UserDao.class
+com\mitrais\rmsweb\util\Database.class
